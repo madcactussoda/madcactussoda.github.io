@@ -639,8 +639,11 @@
 	border: 0;
 	float: center;
 	padding: 0% 0% 0% 20%;
-	display: list-item;
-	position: relative;
+	
+	
+	
+	
+	
 }
 
 	.IconCactus img {
@@ -1508,7 +1511,7 @@
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 		column-gap: 3em;
-		margin: 0em 
+		margin: 0 
 		
   	}
 
